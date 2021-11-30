@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MatchStore</string>
+    <string name="title_home">Home</string>
+    <string name="title_cart">Cart</string>
+    <string name="title_settings">Settings</string>
+    <string name="find_your">Find your</string>
+    <string name="match_style">match <u>style!</u></string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="swipe">Swipe up for Details</string>
+    <string name="price">$%.2f</string>
+    <string name="item">%1$d items</string>
+    <string name="sub_total">Sub total</string>
+    <string name="add_cart">Add to Cart</string>
+    <string name="my_cart">My Cart</string>
+    <string name="shipping">Shipping:</string>
+    <string name="bag_total">Bag Total:</string>
+    <string name="checkout">Checkout</string>
+    <string name="mode">Dark version</string>
+    <string name="fingerprint">Enable fingerprint</string>
+    <string name="history">History</string>
+    <string name="previous_order">Previous Order</string>
+    <string name="notification">Notifications</string>
+    <string name="language">Language</string>
+</resources>
