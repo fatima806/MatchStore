@@ -1,6 +1,6 @@
 # MatchStore
 
-Screenshots:
+# Screenshots:
 
 ![](Images/Home.jpg)
 ![](Images/Details.jpg)
